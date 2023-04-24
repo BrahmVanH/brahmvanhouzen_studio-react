@@ -1,4 +1,8 @@
 To-do:
 
--Fix margins... the page is way too wide at any viewport-width
--Add in carousel
+Add contact form
+Add gitgub links to carousel
+add deployed app links to carousel 
+add footer
+add resume 
+make resume downloadable
