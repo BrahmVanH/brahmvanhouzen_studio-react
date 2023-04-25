@@ -20,10 +20,3 @@
     background-color: black;
 }
 
-@media (max-width: 768px ) {
-    
-    #bioContainer {
-        font-size: .50em ;
-    }
-    
-  }
