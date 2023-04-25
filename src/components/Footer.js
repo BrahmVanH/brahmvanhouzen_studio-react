@@ -5,7 +5,7 @@ import '../styles/Footer.css';
 
 function Footer() {
 	return (
-		<footer className='bg-dark'>
+		<div className='footer bg-dark'>
 			<div className='container py-4 py-lg-5'>
 				
 				<div className='text-muted d-flex justify-content-between align-items-center'>
@@ -26,7 +26,7 @@ function Footer() {
 					</ul>
 				</div>
 			</div>
-		</footer>
+		</div>
 	);
 }
 export default Footer;

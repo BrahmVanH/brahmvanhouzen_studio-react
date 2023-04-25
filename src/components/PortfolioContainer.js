@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
 import NavBar from './NavBar';
-import Contact from './pages/Contact';
+import Contact from './Contact/index';
 import Creations from './pages/Creations';
 import Home from './pages/Home';
 import Footer from './Footer';
+import '../styles/supplementalStyle.css';
 
 export default function PortfolioContainer() {
 	const [currentPage, setCurrentPage] = useState('Home');
@@ -21,7 +22,7 @@ export default function PortfolioContainer() {
 	const handlePageChange = (page) => setCurrentPage(page);
 
 	return (
-		<div>
+		<div id="portfolioContainer" >
 			<NavBar
 				currentPage={currentPage}
 				handlePageChange={handlePageChange}

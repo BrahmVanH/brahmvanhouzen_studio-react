@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Home() {
 	return (
-		<div>
+		<div style={{padding: '20'}}>
 			<header className='bg-dark'>
 				<div className='container pt-4 pt-xl-5'>
 					<div className='row pt-5'>
