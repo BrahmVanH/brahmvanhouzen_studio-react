@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import NavBar from './NavBar';
-import Contact from './Contact/index';
-import Creations from './pages/Creations';
 import Home from './pages/Home';
+import Creations from './pages/Creations';
+import Resume from './Resume/index';
+import Contact from './Contact/index';
 import Footer from './Footer';
 import '../styles/supplementalStyle.css';
 
@@ -15,6 +16,9 @@ export default function PortfolioContainer() {
 		}
 		if (currentPage === 'Creations') {
 			return <Creations />;
+		}
+		if (currentPage === 'Resume') {
+			return <Resume />;
 		}
 		return <Contact />;
 	};

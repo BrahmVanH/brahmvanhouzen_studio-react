@@ -40,6 +40,14 @@ function NavBar({ currentPage, handlePageChange }) {
 						</li>
 						<li className='nav-item'>
 							<a
+								className='nav-link active'
+								href='/#Resume'
+								onClick={() => handlePageChange('Resume')}>
+								<span style={{ fontWeight: 'normal !important' }}>Resume</span>
+							</a>
+						</li>
+						<li className='nav-item'>
+							<a
 								className='nav-link'
 								href='/#Contact'
 								onClick={() => handlePageChange('Contact')}>
