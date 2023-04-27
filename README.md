@@ -1,56 +1,59 @@
-# My Portfolio 
+# My Portfolio
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
-  
-  ## Description 
-  
-  This is my personal website, dsplaying projects I've worked on and my resume. The project has been built using React.js.
-  
-  ## Table of Contents
+Link to GitHub repository: https://github.com/BrahmVanH/brahmvanhouzen_studio-react
 
-  ⋆[Installation](#Installation)
-  ⋆[Usage](#Usage)
-  ⋆[Credits](#Credits)
-  ⋆[License](#License)
-  ⋆[Features](#Features)
-  ⋆[Contributions](#Contributions)
-  ⋆[Test](#Contributions)
+Link to deployed application: https://brahmvanh.github.io/brahmvanhouzen_studio-react/
 
-  ## Installation 
+![screenshot](src\images\Portfolio-screenshot.png)
 
-  N/A
+## Description
 
-  ## Usage
+This is my personal website, dsplaying projects I've worked on and my resume. The project has been built using React.js.
 
-  N/A
+## Table of Contents
 
-  ## Credits 
+⋆[Installation](#Installation)
+⋆[Usage](#Usage)
+⋆[Credits](#Credits)
+⋆[License](#License)
+⋆[Features](#Features)
+⋆[Contributions](#Contributions)
+⋆[Test](#Contributions)
 
-  N/A
+## Installation
 
-  ## License
+N/A
 
-  (https://opensource.org/licenses/MIT)
-  
+## Usage
 
-  ## Features
+N/A
 
-  N/A
+## Credits
 
-  ## Contributions
+N/A
 
-  N/A
+## License
 
-  ## Test
+(https://opensource.org/licenses/MIT)
 
-  N/A
+## Features
 
-  ## Questions
+N/A
 
-  If you have any questions about the project you can reach out to me via email or GitHub with the information below. 
+## Contributions
 
-  >Email: brahm@brahmvanhouzen.studio
+N/A
 
-  >GitHub: [BrahmVanH](https://github.com/BrahmVanH)
+## Test
 
+N/A
+
+## Questions
+
+If you have any questions about the project you can reach out to me via email or GitHub with the information below.
+
+> Email: brahm@brahmvanhouzen.studio
+
+> GitHub: [BrahmVanH](https://github.com/BrahmVanH)
