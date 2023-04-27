@@ -40,10 +40,14 @@ function NavBar({ currentPage, handlePageChange }) {
 						</li>
 						<li className='nav-item'>
 							<a
-								className='nav-link active'
-								href='/#Resume'
-								onClick={() => handlePageChange('Resume')}>
-								<span style={{ fontWeight: 'normal !important' }}>Resume</span>
+								href={
+									process.env.PUBLIC_URL +
+									'/pdf/Brahm_vanhouzen_developer-resume.pdf'
+								}
+								target='blank'
+								rel='noopener noreferrer'
+								className='nav-link'>
+								Resume
 							</a>
 						</li>
 						<li className='nav-item'>
